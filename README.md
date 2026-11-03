@@ -28,7 +28,7 @@
 </table>
 
 ## Installation
-
+ 
 ### Google Play
 
 ![](https://raw.githubusercontent.com/pioug/google-play-badges/06ccd9252af1501613da2ca28eaffe31307a4e6d/svg/English.svg)
